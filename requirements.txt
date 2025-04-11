@@ -2,4 +2,4 @@ scikit-learn
 numpy
 streamlit
 pandas
-PIL
+Pillow
