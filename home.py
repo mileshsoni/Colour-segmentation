@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image
 from sklearn.cluster import KMeans
 import collections
-import webcolors
 st.title('Colour Segmentation')
 
 uploaded_file = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg"], accept_multiple_files=False)
